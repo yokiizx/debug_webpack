@@ -1,0 +1,17 @@
+{
+  "name": "debug",
+  "version": "1.0.0",
+  "description": "A webpack debug repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0"
+  }
+}
